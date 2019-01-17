@@ -4,12 +4,12 @@
     "label": "Student",
     "picture": "https://techfolios.github.io/template/images/molly.png",
     "email": "david947@hawaii.edu",
-    "phone": "808-687-1206",
+    //"phone": "808-687-1206",
     "website": "https://davidvliang.github.io",
     "summary": "I am studying for a B.S. in Computer Engineering at the University of Hawaii at Manoa. I expect to graduate in Spring, 2020.",
     "location": {
-      "address": "",
-      "postalCode": "96822",
+      //"address": "",
+      //"postalCode": "96822",
       "city": "Honolulu",
       "countryCode": "USA",
       "region": "Hawaii"
@@ -17,15 +17,15 @@
     "profiles": [
       {
         "network": "github",
-        "username": "mmaluhia",
-        "url": "http://github.com/changeme"
+        "username": "davidvliang",
+        "url": "http://github.com/davidvliang"
       },
       {
         "network": "linkedin",
         "username": "mollymaluhia",
-        "url": "http://linkedin.com/in/changeme"
-      },
-      {
+        "url": "http://linkedin.com/in/davidvliang"
+/*      },
+      //{
         "network": "twitter",
         "username": "mollymal",
         "url": "http://twitter.com/changeme"
@@ -34,24 +34,24 @@
         "network": "instagram",
         "username": "molly",
         "url": "http://instagram.com/changeme"
-      }
+      }*/
     ]
   },
   "interests": [
     {
-      "name": "internet of things",
+      "name": "Cyber Security",
       "keywords": [
         "Arduino",
         "TI MSP430"
       ]
     },
     {
-      "name": "data mining",
+      "name": "Software Development",
       "keywords": [
       ]
     },
     {
-      "name": "artificial intelligence",
+      "name": "",
       "keywords": [
       ]
     }
@@ -63,10 +63,8 @@
       "keywords": [
         "C",
         "C++",
-        "Java",
-        "Javascript",
-        "Assembly",
-        "Common Lisp"
+        "JavaScript",
+        "Python"
       ]
     },
     {
@@ -74,26 +72,25 @@
       "level": "",
       "keywords": [
         "MacOS",
-        "Ubuntu",
-        "Git/GitHub",
-        "g++",
-        "TI LaunchPad"
+        "Ubuntu", 
+        "Windows",
+        "Git/GitHub"
       ]
     }
   ],
   "education": [
     {
       "institution": "University of Hawaii, Honolulu, HI",
-      "area": "Computer Science (expected Spring, 2018)",
+      "area": "Computer Engineering (expected Spring, 2020)",
       "studyType": "B.S.",
-      "startDate": "2013-09-01",
+      "startDate": "2016",
       "endDate": "Present",
       "gpa": "",
       "courses": [
       ]
     }
   ],
-  "work": [
+/*  "work": [
     {
       "company": "UH Manoa Board of Publications",
       "position": "Web Developer",
@@ -118,7 +115,7 @@
         "Answer phone and email responses to the ITS Help Desk"
       ]
     }
-  ],
+  ],*/
   "volunteer": [
     {
       "organization": "Center for Renewable Energy and Island Sustainability",
