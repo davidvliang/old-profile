@@ -30,19 +30,24 @@ I need to match all of these opening tags:
 <p>
 <a href="foo">
 ```
+
 <blockquote>
 But not these:
 </blockquote>
-```
+
+```c
 <br />
 <hr class="foo" />
 ```
+
 <blockquote>
 I came up with this and wanted to make sure I've got it right. I am only capturing the a-z.
 </blockquote>
+
 ```c
 <([a-z]+) *[^/]*?>
 ```
+
 <blockquote>
 I believe it says:
 
