@@ -61,9 +61,7 @@ Do I have that right? And more importantly, what do you think?
 
 </blockquote>
 
-From this post it is evident that the questioner made an attempt to the problem by 
-
-On the contrary, a “not smart” question this [post](https://stackoverflow.com/questions/388470/stacktrace-information-preserving-paths-of-original-source?answertab=votes#tab-top)
+From this post it is evident that the questioner made an attempt to the problem by providing his experience and attempt at the problem. They display an effort and commitment to findind a solution which the questioner and take to mean this is a question worth answering. On the contrary, a “not smart” question this [post](https://stackoverflow.com/questions/388470/stacktrace-information-preserving-paths-of-original-source?answertab=votes#tab-top)
 
 <blockquote>
  Topic: Stacktrace information preserving paths of original source
