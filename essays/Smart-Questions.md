@@ -20,33 +20,34 @@ Eric Steven Raymond had written a rant that shapes itself into a practical guide
 <blockquote>
   
 Topic: RegEx match open tags except XHTML self-contained tags
+
   
 Question: 
 
 I need to match all of these opening tags:
 </blockquote>
 
-        ```
-        <p>
-        <a href="foo">
-        ```
+                ```
+                <p>
+                <a href="foo">
+                ```
 
 <blockquote>
 But not these:
 </blockquote>
 
-        ```c
-        <br />
-        <hr class="foo" />
-        ```
+                ```c
+                <br />
+                <hr class="foo" />
+                ```
 
 <blockquote>
 I came up with this and wanted to make sure I've got it right. I am only capturing the a-z.
 </blockquote>
 
-        ```c
-        <([a-z]+) *[^/]*?>
-        ```
+                ```c
+                <([a-z]+) *[^/]*?>
+                ```
 
 <blockquote>
 I believe it says:
@@ -75,9 +76,9 @@ From this post it is evident that the questioner made an attempt to the problem 
  I executed my application on another machine, but when errors occur it refers to the path of my development machine.
 </blockquote>
 
-         ```
-         Ex:   D:\Projects\xyz.CS line no :12 _Error_message_here.
-         ```
+                 ```
+                 Ex:   D:\Projects\xyz.CS line no :12 _Error_message_here.
+                 ```
  
 <blockquote>
  Why does it trace to the path on my development machine path even though I am running the application on another machine?
