@@ -15,7 +15,7 @@ labels:
 Programming is by no means an easy feat. There is guaranteed to be a problem, or problems, that will stump the programmer and leave them dead in their tracks. At that point maybe it’s the best time to get some help from someone of higher knowledge.. or is it? We ask questions to get solutions to our problems, but we must'nt be too eager to obtain this help without first attempting to find the answer ourselves. The philosophy behind "smart" questions and "not smart" questions resides behind the principle of putting in your maximum effort into a problem before invoking someone else.
 
 # What We Should and Shouldn't Do
-Eric Steven Raymond had written a rant that shapes itself into a practical guide on how to ask a question the correct and appropriate way. So, what is considered a “smart” question? According to [Raymond’s essay](http://www.catb.org/esr/faqs/smart-questions.html),  An example of this is provided on stack overflow[here](https://stackoverflow.com/questions/1732348/regex-match-open-tags-except-xhtml-self-contained-tags/1732454#1732454) and is shown below.
+Eric Steven Raymond had written a rant that shapes itself into a practical guide on how to ask a question the correct and appropriate way. So, what is considered a “smart” question? According to [Raymond’s essay](http://www.catb.org/esr/faqs/smart-questions.html),  An example of this is provided on stack overflow [here](https://stackoverflow.com/questions/1732348/regex-match-open-tags-except-xhtml-self-contained-tags/1732454#1732454) and is shown below.
 
 <blockquote>
   
@@ -24,25 +24,26 @@ Topic: RegEx match open tags except XHTML self-contained tags
 Question: 
 
 I need to match all of these opening tags:
+</blockquote>
 
-```ruby
+```
 <p>
 <a href="foo">
 ```
-
+<blockquote>
 But not these:
-
-```ruby
+</blockquote>
+```
 <br />
 <hr class="foo" />
 ```
-
+<blockquote>
 I came up with this and wanted to make sure I've got it right. I am only capturing the a-z.
-
+</blockquote>
 ```c
 <([a-z]+) *[^/]*?>
 ```
-
+<blockquote>
 I believe it says:
 
 - Find a less-than, then
@@ -60,21 +61,21 @@ From this post it is evident that the questioner made an attempt to the problem 
 On the contrary, a “not smart” question this [post](https://stackoverflow.com/questions/388470/stacktrace-information-preserving-paths-of-original-source?answertab=votes#tab-top)
 
 
-> Topic: Stacktrace information preserving paths of original source
->
-> Question:
->
-> I am using C#.net for application development.
->
-> To log and debug exceptions, I use the stacktrace.
->
-> I executed my application on another machine, but when errors occur it refers to the path of my development machine.
->
-> ```
-> Ex:   D:\Projects\xyz.CS line no :12 _Error_message_here.
-> ```
->
-> Why does it trace to the path on my development machine path even though I am running the application on another machine?
+ Topic: Stacktrace information preserving paths of original source
+
+ Question:
+
+ I am using C#.net for application development.
+
+ To log and debug exceptions, I use the stacktrace.
+
+ I executed my application on another machine, but when errors occur it refers to the path of my development machine.
+
+ ```
+ Ex:   D:\Projects\xyz.CS line no :12 _Error_message_here.
+ ```
+
+ Why does it trace to the path on my development machine path even though I am running the application on another machine?
 
 
 
