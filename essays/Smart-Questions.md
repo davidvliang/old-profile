@@ -8,9 +8,9 @@ labels:
   - Smart Questions
   - Problem Solving
 ---
- # The Mindset
- <img class="ui small right floated spaced image" src="../images/confused-man.jpg">
 
+ <img class="ui small right floated spaced image" src="../images/confused-man.jpg">
+# The Mindset
 Programming is by no means an easy feat. There is guaranteed to be a problem, or problems, that will stump the programmer and leave them dead in their tracks. At that point maybe it’s the best time to get some assistance. Or is it? We ask questions to get solutions to our problem. 
 
 We need to consider the 
@@ -20,11 +20,12 @@ We need to consider the
 Eric Steven Raymond had written a rant that shapes itself into a practical guide on how to ask the right question for the 
 
 So what is considered a “smart” question? According to Raymond’s essay,  
-[“smart” question] (https://stackoverflow.com/questions/1732348/regex-match-open-tags-except-xhtml-self-contained-tags/1732454#1732454)
+[“smart” question] (https://stackoverflow.com/questions/1732348/regex-match-open-tags-except-xhtml-self-contained-tags/1732454#1732454.html)
 
 
-[“not smart” question] (https://stackoverflow.com/questions/388470/stacktrace-information-preserving-paths-of-original-source?answertab=votes#tab-top)
+[“not smart” question] (https://stackoverflow.com/questions/388470/stacktrace-information-preserving-paths-of-original-source?answertab=votes#tab-top.html)
 
+[How to ask questions the smart way][hello](http://www.catb.org/esr/faqs/smart-questions.html)
 
 # But Why?
 This and yet, there are those that claim there is no such thing as a dumb question. 
