@@ -18,6 +18,7 @@ Programming is by no means an easy feat. There is guaranteed to be a problem, or
 Eric Steven Raymond had written a rant that shapes itself into a practical guide on how to ask a question the correct and appropriate way. So, what is considered a “smart” question? According to [Raymond’s essay](http://www.catb.org/esr/faqs/smart-questions.html),  An example of this is provided on stack overflow[here](https://stackoverflow.com/questions/1732348/regex-match-open-tags-except-xhtml-self-contained-tags/1732454#1732454) and is shown below.
 
 <blockquote>
+  
 Topic: RegEx match open tags except XHTML self-contained tags
   
 Question: 
@@ -28,17 +29,20 @@ I need to match all of these opening tags:
 <p>
 <a href="foo">
 ```
+
 But not these:
 
 ```ruby
 <br />
 <hr class="foo" />
 ```
+
 I came up with this and wanted to make sure I've got it right. I am only capturing the a-z.
 
-```
+```c
 <([a-z]+) *[^/]*?>
 ```
+
 I believe it says:
 
 - Find a less-than, then
@@ -48,31 +52,32 @@ I believe it says:
 - Find a greater-than
 
 Do I have that right? And more importantly, what do you think?
+
 </blockquote>
 
 From this post it is evident that the questioner made an attempt to the problem by 
 
 On the contrary, a “not smart” question this [post](https://stackoverflow.com/questions/388470/stacktrace-information-preserving-paths-of-original-source?answertab=votes#tab-top)
 
-<blockquote>
-Topic: Stacktrace information preserving paths of original source
 
-Question:
+> Topic: Stacktrace information preserving paths of original source
+>
+> Question:
+>
+> I am using C#.net for application development.
+>
+> To log and debug exceptions, I use the stacktrace.
+>
+> I executed my application on another machine, but when errors occur it refers to the path of my development machine.
 
-I am using C#.net for application development.
-
-To log and debug exceptions, I use the stacktrace.
-
-I executed my application on another machine, but when errors occur it refers to the path of my development machine.
-
-```
-Ex:   D:\Projects\xyz.CS line no :12 _Error_message_here.
-```
-
-Why does it trace to the path on my development machine path even though I am running the application on another machine?
+ ```
+ Ex:   D:\Projects\xyz.CS line no :12 _Error_message_here.
+ ```
+>
+> Why does it trace to the path on my development machine path even though I am running the application on another machine?
 
 
-</blockquote>
+
 
 This and yet, there are those that claim there is no such thing as a dumb question.
 
