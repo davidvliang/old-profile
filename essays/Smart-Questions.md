@@ -69,10 +69,10 @@ On the contrary, a “not smart” question this [post](https://stackoverflow.co
 > To log and debug exceptions, I use the stacktrace.
 >
 > I executed my application on another machine, but when errors occur it refers to the path of my development machine.
-
- ```
- Ex:   D:\Projects\xyz.CS line no :12 _Error_message_here.
- ```
+>
+> ```
+> Ex:   D:\Projects\xyz.CS line no :12 _Error_message_here.
+> ```
 >
 > Why does it trace to the path on my development machine path even though I am running the application on another machine?
 
