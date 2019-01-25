@@ -22,19 +22,19 @@ Topic: RegEx match open tags except XHTML self-contained tags
 Question: 
   I need to match all of these opening tags:
 
-```java
+```ruby
 <p>
 <a href="foo">
 ```
 But not these:
 
-```c
+```ruby
 <br />
 <hr class="foo" />
 ```
 I came up with this and wanted to make sure I've got it right. I am only capturing the a-z.
 
-```html
+```ruby
 <([a-z]+) *[^/]*?>
 ```
 I believe it says:
