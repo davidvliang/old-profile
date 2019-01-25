@@ -22,19 +22,19 @@ Topic: RegEx match open tags except XHTML self-contained tags
 Question: 
   I need to match all of these opening tags:
 
-```c++
+```java
 <p>
 <a href="foo">
 ```
 But not these:
 
-```c++
+```c
 <br />
 <hr class="foo" />
 ```
 I came up with this and wanted to make sure I've got it right. I am only capturing the a-z.
 
-```c++
+```html
 <([a-z]+) *[^/]*?>
 ```
 I believe it says:
@@ -47,8 +47,10 @@ I believe it says:
 
 Do I have that right? And more importantly, what do you think?
 </blockquote>
+
 in which the questioner 
-On the contrary, a “not smart” question [this post](https://stackoverflow.com/questions/388470/stacktrace-information-preserving-paths-of-original-source?answertab=votes#tab-top)
+
+On the contrary, a “not smart” question this [post](https://stackoverflow.com/questions/388470/stacktrace-information-preserving-paths-of-original-source?answertab=votes#tab-top)
 
 
 # But Why?
