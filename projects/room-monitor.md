@@ -3,7 +3,7 @@ layout: project
 type: project
 image: images/monitor.jpg
 title: Room Monitor Check-In System
-permalink: projects/vacay
+permalink: projects/roommonitor
 # All dates must be YYYY-MM-DD format!
 date: 2017-12-13
 labels:
