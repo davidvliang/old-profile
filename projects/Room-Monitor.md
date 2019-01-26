@@ -1,16 +1,16 @@
 ---
 layout: project
 type: project
-image: images/vacay-square.png
-title: Room Monitor
+image: images/monitor.jpg
+title: Room Monitor Check-In System
 permalink: projects/vacay
 # All dates must be YYYY-MM-DD format!
 date: 2017-12-13
 labels:
   - Arduino
-  - 
+  - Android App Development
 
-summary: A responsive web application for travel planning that my team developed in ICS 415.
+summary: Designed a device to keep track of the population of a room and sends this data to a mobile app.
 ---
 
 <img class="ui medium right floated rounded image" src="../images/vacay-home-page.png">
