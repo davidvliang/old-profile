@@ -7,11 +7,20 @@ permalink: projects/project-tictactoe
 # All dates must be YYYY-MM-DD format!
 date: 2018-05-03
 labels:
-  - Linux
-  - SFML
   - C++
-summary: My team developed a 3D Tic-Tac-Toe Game using C+\+ in a Linux Environment
+  - SFML
+  - Linux
+summary: My team developed a 3D Tic-Tac-Toe Game using C++ in a Linux Environment
 ---
+# The Idea
+
+
+# The Implementation
+We designed the game with an object-oriented approach in mind. Different classes were created for the board, game pieces, game logic
+
+
+Abbreviated as SFML, this 
+
 
 The snippet of code below shows how the pieces are originally set onto the gameboard upon startup.
 
