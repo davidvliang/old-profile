@@ -58,8 +58,8 @@
         "MacOS",
         "Linux", 
         "Windows",
-        "Git/GitHub"
-        "Aircrack-ng"
+        "Git/GitHub",
+        "Aircrack-ng",
         "Wireshark"
       ]
     }
