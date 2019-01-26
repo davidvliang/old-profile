@@ -10,7 +10,7 @@ labels:
   - Linux
   - SFML
   - C++
-summary: My team developed a 3D Tic-Tac-Toe Game using C++ in a Linux Environment
+summary: My team developed a 3D Tic-Tac-Toe Game using C+\+ in a Linux Environment
 ---
 
 The snippet of code below shows how the pieces are originally set onto the gameboard upon startup.
