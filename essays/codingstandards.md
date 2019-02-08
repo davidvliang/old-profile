@@ -9,7 +9,7 @@ labels:
 ---
 One might find it	difficult to 	
 	read this essay		 if it
-was written		 entirely in this
+was written		 entirely in 
 	this formatting style. 
 				      
 It would likely be an inconvenience and annoyance for the reader. This is why text is meant to be structured in a manner that is easily deciphered by others. The purpose of writing text is to convey a message to an audience, so it would not make sense to have that message shrouded in a fog of bad formatting and poor style. In the same sense that properly formatting text is imperative to creating a clear passage that an audience can read and understand, properly formatting code is important for producing content that a fellow programmer can read and understand.
