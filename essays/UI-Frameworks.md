@@ -12,4 +12,4 @@ labels:
 WOOOOOOTTTT!!!!!!!
 
 
-I used to make such [awesomene](http://htmlpreview.github.io/?https://github.com/davidvliang/historyofsurfing/blob/master/index.html) websites
+I used to make such [awesome](http://htmlpreview.github.io/https://github.com/davidvliang/historyofsurfing/blob/master/index.html) websites, but now i just make modern websites.
