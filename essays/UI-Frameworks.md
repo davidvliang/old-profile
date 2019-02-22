@@ -9,7 +9,5 @@ labels:
   - Semantic UI
 ---
 
-WOOOOOOTTTT!!!!!!!
-
-
-I used to make such [awesome](http://htmlpreview.github.io/https://github.com/davidvliang/historyofsurfing/blob/master/index.html) websites, but now i just make modern websites.
+I had gotten my first ever taste of UI design last week with an introduction to HTML and CSS. Learning front end programming was great and I felt I was completely ready to make the awesome webpages I wanted.  However, I don’t plan to create web pages that belonged back in the dark ages of the internet. This week I was introduced to the concept of UI Frameworks and my mind had just been blown to smithereens. UI Frameworks offers a compilation of standardized code that allows for more advanced customization of design. 
+This week I had learned a framework called Semantic UI, which boasts a flat and modern design scheme. This specific framework came chock-full of the tools needed to format content in a simple and efficient manner. There were like many standardized segments like menus, grids, and buttons that I found was very simple to implement. Also, the ability to change and customize these sections with simple keywords like “fitted” or “mini” that are a straightforward approach to advanced customization. 
