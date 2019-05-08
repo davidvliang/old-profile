@@ -27,7 +27,7 @@ Through the process of designing and creating cheaper end processors that could 
 As with all processors, there is a significant amount of power dissipation through use, which also results in the generation of heat. In order to tackle on the heat problems and reduce the temperature of the processor, a common heat sink is used to cool down the system and allow for continual use under harsh conditions. With the use of the heat sink, the processors are also able to run for longer periods of time without severe damage. Within the Bulldozer architecture, testing done on the processor showed that the main design was not able to be successfully implemented as hoped, showing that there is a large amount of unfavored power consumption [8]. Unfortunately, there was some misleading, saying that the processor was an octa-core when it was a quad-core due to the module count in the overall design [2]. Aside from the problems faced, the processor is still implemented in many gaming systems due to the low price. 
 
 
-{% include image.html url="images/bulldozer/fig2-processors-on-silicon-wafer.png" description="Fig. 2: Processors on Silicon Wafer [3]" %}
+{% include image.html url="/images/bulldozer/fig2-processors-on-silicon-wafer.png" description="Fig. 2: Processors on Silicon Wafer [3]" %}
 
 
 
@@ -37,7 +37,7 @@ At the time, the AMD FX was the first natively claimed octa-core processor among
 Most programs and games at the time were not able to make use of the full octa-core design from the Bulldozer architecture, thus resulting in the disparity in performance between that seen in the other competitors. After releasing the design back in 2011, AMD quickly set to resolve the shortcomings of the Bulldozer architecture by building upon the previous working generation. The Bulldozer architecture was then later succeeded by a redesigned Piledriver in the year 2012 [4]. A piece of the Bulldozer architecture can be seen below in Fig. 3 showing the stages on the processor, involving the fetch and decode stage, branching off into separate schedulers, then to the pipeline and back together in the bottom shared cache. 
  
 
-{% include image.html url="images/bulldozer/fig3-bulldozer-architecture.png" description="Fig. 3: Bulldozer Architecture [2]" %}
+{% include image.html url="/images/bulldozer/fig3-bulldozer-architecture.png" description="Fig. 3: Bulldozer Architecture [2]" %}
 
 
 ## Pipeline Structure
@@ -47,7 +47,7 @@ With the new Bulldozer design, there are 4 modules within the processor, each wi
 A critical factor in why the performance ratings are not as impressive is due to design testing where the turbo core feature was not able to work well with the operating system at the time [7]. Due to the very different design compared to those from other processors at the time, the pipeline intended was not able to be clearly carried out [8]. With the current version of Windows at the time, the operating system was not able to differentiate which cores needed to be turned off. Through the pipeline design, there were some cores that would need to be shut off to help with the power consumption, however, was disrupted and ineffective due to the inconsistent pairing between the processor and operating system itself. Despite the two cores sharing a schedule, the operating system sees 8 individual cores, thus making it difficult for the system to understand the way in which resources are allocated within the Bulldozer architecture, scaling down to reducing the impact of the two sets of pipelines in the two cores. As time went on, the next generation updates on operating systems were created with the introduction of Windows 8, the full capabilities of the AMD FX pipeline were then realized [8]. Once the operating system was able to fully make use and understand the pipeline effect of the AMD FX, being able to understand when to turn off a certain core to optimize the power consumption. The processor truly was able to allow for great performance at a reasonable price. With the power consumption limitation along with the limitation on the number of instructions able to be handled, the pipeline was restricting the overall potential of the processor, resulting in a loss of performance speed. In total, the four-way pipeline was still able to dedicate a single core to execute a specific instruction while another core was in sleep mode. 
 Upon the initial launch of the processor, the overclocking abilities were very high, seen in 2011 where the AMD FX was able to surpass the previous record for an overclocked speed of 8.309GHz at a new value of 8.429GHz [10]. The unorthodox pipeline design allowed for faster overclock speeds to be obtained. With the ultimate shortcoming of the processor due to many unfortunate mishaps, the pipeline was significantly slower compared to the others of the same price and operation speed, leading to a large loss in revenue for AMD. 
  
-{% include image.html url="images/bulldozer/fig4-single-core-queens-benchmark-test.png" description="Fig. 4: Single Core Queens Benchmark Test [8]" %}
+{% include image.html url="/images/bulldozer/fig4-single-core-queens-benchmark-test.png" description="Fig. 4: Single Core Queens Benchmark Test [8]" %}
 
 
 ## Memory
@@ -60,7 +60,10 @@ We see here that the L3 cache of Bulldozer architecture performs rather poorly a
 
 As for system memory, this processor supports DDR3 memory up to a frequency of 1.866MHz. The latency situation for the main memory suffers the same fate to that of the L3 cache. That is, despite the Bulldozer’s superior clock speed and scaled down design, it is beat ever so slightly by Intel’s Sandy Bridge and AMD’s own Piledriver architecture. With Turbo turned on, the clock speed drives to a reported 3.9GHz and latency is reduced by 5.7ns, beating out the Phenom II X4, but still falling short of the competition. Fig.6 graphically depicts the latencies of these architectures. 
  
-Fig. 6: Memory Latency Comparison Test [8]
+ 
+{% include image.html url="/images/bulldozer/fig6-memory-latency-comparison-test.png" description="Fig. 6: Memory Latency Comparison Test [8]" %}
+
+
 
 
 Overall, the vision behind this three-level, shared hierarchical approach to caching was in hopes to create more efficient data access while also allowing the processor design to be scaled down. In the new Bulldozer design, AMD decided to use three levels of caches that are shared amongst each module and are of a larger size than its predecessors. As a result, these processors lack the speed that encompasses a smaller cache capacity. It is made clear that the AMD FX was intended for use with Turbo on to maximize its potential speeds to catch up to its competition, but even so, this processor still barely beats its own predecessors and is leagues away from the speed of Sandy Bridge.

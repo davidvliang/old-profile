@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: images/blueprints_boat.jpg
+image: images/blueprints/blueprints_boat.jpg
 title: Blueprints
 permalink: projects/blueprints
 # All dates must be YYYY-MM-DD format!

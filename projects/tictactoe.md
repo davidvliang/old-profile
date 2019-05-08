@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: images/tictactoe.png
+image: images/tictactoe/tictactoe.png
 title: 3D Tic-Tac-Toe
 permalink: projects/project-tictactoe
 # All dates must be YYYY-MM-DD format!

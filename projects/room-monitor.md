@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: images/monitor.jpg
+image: images/roommonitor/monitor.jpg
 title: Room Monitor Check-In System
 permalink: projects/roommonitor
 # All dates must be YYYY-MM-DD format!
