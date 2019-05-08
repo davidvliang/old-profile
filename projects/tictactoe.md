@@ -13,7 +13,7 @@ labels:
 summary: My team developed a 3D Tic-Tac-Toe Game using C++ in a Linux Environment
 ---
 # The Idea
-
+For our EE205 Final Project, we applied our knowledge of the C++ programming language to design a 3D Tic-Tac-Toe game. This game is a spinoff of traditional Tic-Tac-Toe and is played on three boards in which pieces can. The trick with this game is that even though 
 
 # The Implementation
 We designed the game with an object-oriented approach in mind. Different classes were created for the board, game pieces, game logic
@@ -48,5 +48,7 @@ Piece::Piece(float posX, float posY){
     }
 }
 ```
+
+You can see more at the [Github](https://github.com/jltu/Tic-Tac-Toe)
 
 
