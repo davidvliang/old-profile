@@ -3,6 +3,7 @@ layout: project
 type: project
 image: images/blueprints_boat.jpg
 title: Drone Traffic Profiling & Protocol Reverse Engineering
+published: false
 permalink: projects/drone-security
 # All dates must be YYYY-MM-DD format!
 date: 2019-05-10
