@@ -2,6 +2,7 @@
 layout: essay
 type: essay
 title: Fulfillment of Curiosity
+published: false
 # All dates must be YYYY-MM-DD format!
 date: 2019-01-18
 labels:
