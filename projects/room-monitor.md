@@ -3,6 +3,7 @@ layout: project
 type: project
 image: images/roommonitor/monitor.jpg
 title: Room Monitor Check-In System
+published: false
 permalink: projects/roommonitor
 # All dates must be YYYY-MM-DD format!
 date: 2017-12-13
