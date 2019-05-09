@@ -3,7 +3,7 @@ layout: project
 type: project
 image: images/alohastudy/AlohaStudy.png
 title: AlohaStudy
-permalink: projects/project-tictactoe
+permalink: projects/alohastudy.md
 # All dates must be YYYY-MM-DD format!
 date: 2019-05-06
 labels:
