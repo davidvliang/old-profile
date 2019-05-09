@@ -1,5 +1,6 @@
 ---
 layout: essay
+published: false
 type: essay
 title: Code Morality
 # All dates must be YYYY-MM-DD format!
