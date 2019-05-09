@@ -21,3 +21,5 @@ I came into this project as a novice at web design and have since gained experie
 
 A more complete overview of this project and discussion of functionality can be found at [alohastudy.github.io](https://alohastudy.github.io/)
 
+
+
