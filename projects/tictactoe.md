@@ -13,13 +13,13 @@ labels:
 summary: My team developed a 3D Tic-Tac-Toe Game using C++ in a Linux Environment
 ---
 # The Idea
-For our EE205 Final Project, we applied our knowledge of the C++ programming language to design a 3D Tic-Tac-Toe game. This game is a spinoff of traditional Tic-Tac-Toe and is played on three boards in which pieces can. The trick with this game is that even though 
+
+<img class="ui small right floated rounded image" src="../images/tictactoe/example3d.png">
+
+For our EE205 final project, we applied our knowledge of the C++ programming language to design a 3D Tic-Tac-Toe game. This game is a spinoff of traditional Tic-Tac-Toe and is played on three boards in which pieces can be connected in a seemingly three dimensional manner as seen on the image to the right. The trick with this game is that even though  
 
 # The Implementation
-We designed the game with an object-oriented approach in mind. Different classes were created for the board, game pieces, game logic
-
-
-Abbreviated as SFML, this 
+We designed the game with an object-oriented approach in mind. Different classes were created for the board, game pieces, game logic, and UI. The Simple Fast Multimedia Library, traditionally called SFML, allowed us to easily apply graphics and sound to our program. I spent most of the project manipulating this library to provide mouse input, background music, and animations to our game. 
 
 
 The snippet of code below shows how the pieces are originally set onto the gameboard upon startup.
