@@ -48,45 +48,47 @@
       "keywords": [
         "C",
         "C++",
-        "JavaScript"
+        "Java",
+        "Javascript",
+        "Python"
       ]
     },
     {
       "name": "Toolsets/OS",
       "level": "",
       "keywords": [
+        "Windows 7/8/10"
         "MacOS",
-        "Linux",
-        "Windows",
-        "Git/GitHub",
-        "Aircrack-ng",
-        "Wireshark"
+        "Ubuntu",
+        "Git/GitHub"
       ]
     }
   ],
   "education": [
     {
       "institution": "University of Hawaii, Honolulu, HI",
-      "area": "Computer Engineering (expected Spring, 2020)",
+      "area": "Computer Engineering (Expected Spring 2020)",
       "studyType": "B.S.",
       "startDate": "2016",
       "endDate": "Present",
       "gpa": "",
-      "courses": []
+      "courses": [
+      ]
     }
   ],
   "volunteer": [
     {
       "organization": "",
       "website": "",
-      "position": "",
+      "position": "Organization Involvement",
       "startDate": "",
       "endDate": "",
       "summary": "",
       "highlights": [
         "Pledge, Eta Kappa Nu Electrical Engineering Honors Society, 2018-Present",
         "Member, IEEE Student Branch, 2016-Present",
-        "Section Leader, Marching Band, 2016-Present"
+        "Member, Academy of Computing Machinery, 2018-Present",
+        "Member, Marching Band, 2016-Present"
       ]
     }
   ],
