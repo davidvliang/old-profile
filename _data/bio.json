@@ -5,7 +5,7 @@
     "picture": "https://davidvliang.github.io/images/IMG_2510.JPG",
     "email": "david947@hawaii.edu",
     "website": "https://davidvliang.github.io",
-    "summary": "I am studying for a B.S. in Computer Engineering at the University of Hawaii at Manoa. I expect to graduate in Spring, 2020.",
+    "summary": "I am studying for a B.S. in Computer Engineering at the University of Hawaii at Manoa. I expect to graduate in Spring of 2020.",
     "location": {
       "city": "Honolulu",
       "countryCode": "USA",
@@ -26,7 +26,7 @@
   },
   "interests": [
     {
-      "name": "Cyber Security",
+      "name": "Computer Security",
       "keywords": [
       ]
     },
@@ -36,7 +36,12 @@
       ]
     },
     {
-      "name": "Internet of Things",
+      "name": "Machine Learning",
+      "keywords": [
+      ]
+    },
+    {
+      "name": "Software Reverse Engineering",
       "keywords": [
       ]
     }
@@ -50,7 +55,10 @@
         "C++",
         "Java",
         "Javascript",
-        "Python"
+        "PHP",
+        "Python",
+        "Bootstrap",
+        "CodeIgniter"
       ]
     },
     {
@@ -59,18 +67,21 @@
       "keywords": [
         "Windows 7/8/10",
         "MacOS",
-        "Ubuntu",
-        "Git/GitHub"
+        "Linux",
+        "Git/GitHub",
+        "Ghidra",
+        "Wireshark",
+        "Aircrack-ng"
       ]
     }
   ],
   "education": [
     {
-      "institution": "University of Hawaii, Honolulu, HI",
+      "institution": "University of Hawaii at Manoa, Honolulu, HI",
       "area": "Computer Engineering (Expected Spring 2020)",
-      "studyType": "B.S.",
-      "startDate": "2016",
-      "endDate": "Present",
+      "studyType": "BS",
+      "startDate": "Expected Graduation",
+      "endDate": "May 2020",
       "gpa": "",
       "courses": [
       ]
@@ -85,7 +96,7 @@
       "endDate": "",
       "summary": "",
       "highlights": [
-        "Pledge, Eta Kappa Nu Electrical Engineering Honors Society, 2018-Present",
+        "Vice President, Eta Kappa Nu Electrical Engineering Honors Society, 2018-Present",
         "Member, IEEE Student Branch, 2016-Present",
         "Member, Academy of Computing Machinery, 2018-Present",
         "Member, Marching Band, 2016-Present"
