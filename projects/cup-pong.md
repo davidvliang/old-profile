@@ -10,10 +10,13 @@ labels:
   - Arduino
   - Soldering
   
-Summary: My team designed a website that helps students browse, rate, and discover study spots in and around campus. 
+summary: The Electrical Engineering Honor Society created a spectacular Cup Pong Game for Holmescoming 2019.
 ---
 
-<img class="ui image" src="/images/cuppong/cuppong_group.jpg">
+<img class="ui image" style="transform: rotate(180deg);" src="/images/cuppong/cuppong_group.jpg">
+
+
+<img class="ui image"  src="/images/cuppong/cuppong_playing.jpg">
 
 
 Repository for this code can be found [here](https://github.com/davidvliang/CupPong).
