@@ -1,5 +1,6 @@
 # Created by .ignore support plugin (hsz.mobi)
 
+.vs/
 .idea/
 *.iml
 _site/
