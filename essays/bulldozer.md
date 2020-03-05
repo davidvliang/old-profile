@@ -2,6 +2,7 @@
 layout: essay
 type: essay
 title: AMD Bulldozer
+published: false
 # All dates must be YYYY-MM-DD format!
 date: 2019-11-27
 labels:
