@@ -2,6 +2,7 @@
 layout: essay
 type: essay
 title: "Final Project Idea: Manoa Spots"
+published: false
 date: 2019-03-26
 labels:
   - Software Engineering
