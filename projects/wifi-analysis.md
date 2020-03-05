@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: images/blueprints_boat.jpg
+image: images/wifi-analysis/kali.png
 title: Wi-Fi Penetration and Traffic Analysis
 published: true
 permalink: projects/wifi-analysis
