@@ -2,6 +2,7 @@
 layout: essay
 type: essay
 title: Too Much of a Good Thing
+published: false
 # All dates must be YYYY-MM-DD format!
 date: 2019-03-28
 labels:
