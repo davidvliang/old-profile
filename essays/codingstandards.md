@@ -2,7 +2,7 @@
 layout: essay
 type: essay
 title: Braces for Your Code
-published: false
+published: true
 # All dates must be YYYY-MM-DD format!
 date: 2019-01-07
 labels:

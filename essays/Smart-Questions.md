@@ -9,7 +9,7 @@ labels:
   - Problem Solving
 ---
 
- <img class="ui small right floated spaced image" src="../images/confused-man.jpg">
+ <img class="ui small right floated spaced image" src="../images/essays/confused-man.jpg">
  
 # The Mindset
 Programming is by no means an easy feat. There is guaranteed to be a problem, or problems, that will stump the programmer and leave them dead in their tracks. At that point maybe it’s the best time to get some help from someone of higher knowledge.. or is it? We ask questions to get solutions to our problems, but we must'nt be too eager to obtain this help without first attempting to find the answer ourselves. The philosophy behind "smart" questions and "not smart" questions resides behind the principle of putting in your maximum effort into a problem before invoking someone else.
