@@ -1,11 +1,11 @@
 {
   "basics": {
     "name": "David Liang",
-    "label": "Student",
+    "label": "BS Computer Engineering candidate at UH Manoa. </br> Graduation: Spring 2020",
     "picture": "https://davidvliang.github.io/images/bio/IMG_2510.JPG",
     "email": "david947@hawaii.edu",
     "website": "https://davidvliang.github.io",
-    "summary": "I am studying for a B.S. in Computer Engineering at the University of Hawaii at Manoa. I expect to graduate in Spring of 2020.",
+    "summary": "Hello there! My name is David and I am studying towards my B.S. in Computer Engineering at the University of Hawaii at Manoa. I expect to graduate in Spring of 2020.",
     "location": {
       "city": "Honolulu",
       "countryCode": "USA",
@@ -80,41 +80,71 @@
       "institution": "University of Hawaii at Manoa, Honolulu, HI",
       "area": "Computer Engineering (Expected Spring 2020)",
       "studyType": "BS",
-      "startDate": "Expected Graduation",
-      "endDate": "May 2020",
+      "startDate": "2016-09-01",
+      "endDate": "Present",
       "gpa": "",
       "courses": [
       ]
     }
   ],
+  "work": [
+    {
+      "company": "University of Hawaii at Manoa",
+      "position": "Undergraduate Research Assistant",
+      "website": "",
+      "startDate": "2019-12-15",
+      "endDate": "Present",
+      "summary": "Engage in cybersecurity training and research in respect to drone applications.",
+      "highlights": [
+        "Collect drone communication data and analyze characteristic data trends with Python"
+      ]
+    }
+    {
+      "company": "University of Hawaii at Manoa",
+      "position": "Web Development Assistant",
+      "website": "",
+      "startDate": "2019-10-15",
+      "endDate": "Present",
+      "summary": "Modernizes the website of the University of Hawaiʻi at Mānoa Electrical Engineering Department.",
+      "highlights": [
+        "Provide UI design solutions using Bootstrap and CodeIgniter frameworks",
+        "Propose solutions and accept feedback at bi-monthly website committee meetings"
+      ]
+    }
+  ],
   "volunteer": [
     {
-      "organization": "",
-      "website": "",
-      "position": "Organization Involvement",
-      "startDate": "",
-      "endDate": "",
+      "organization": "Eta Kappa Nu Electrical Engineering Honors Society, Delta Omega Chapter",
+      "website": "https://hknhawaii.weebly.com/",
+      "position": "Vice President",
+      "startDate": "2018",
+      "endDate": "Present",
       "summary": "",
-      "highlights": [
-        "Vice President, Eta Kappa Nu Electrical Engineering Honors Society, 2018-Present",
-        "Member, IEEE Student Branch, 2016-Present",
-        "Member, Academy of Computing Machinery, 2018-Present",
-        "Member, Marching Band, 2016-Present"
+      "highlights": [ 
+      ]
+    },
+        {
+      "organization": "UH Concert and Marching Band",
+      "website": "",
+      "position": "",
+      "startDate": "2016",
+      "endDate": "Present",
+      "summary": "",
+      "highlights": [   
       ]
     }
   ],
   "awards": [
     {
-      "title": "B+ Scholarship",
-      "date": "2013-Present",
+      "title": "CyberCorps: Scholarship for Service",
+      "date": "Awarded June 2019",
       "awarder": "State of Hawaii",
-      "summary": "Scholarships awarded to incoming freshmen and continuing students who complete a rigorous high school curriculum with a minimum overall GPA of 3.0 at a Hawai'i public school."
+      "summary": "Awarded by the National Science Foundation to the next generation of IT, security, intelligence, and engineering professionals to fulfill the cybersecurity mission of the U.S. Government."
     },
     {
-      "title": "First place",
-      "date": "2016",
-      "awarder": "University of Hawaii Blueprints Competition",
-      "summary": "My team won first place in 2016. See my portfolio site for more details."
+      "title": "Band Achievement Scholarship",
+      "date": "Awarded August 2016",
+      "summary": "Awarded by the University of Hawaiʻi Music Department via audition to incoming freshman students"
     }
   ],
   "references": [
