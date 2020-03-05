@@ -32,7 +32,17 @@ a {
   color: #f8b400;
 }
 
+
+
 .ui.menu .item { 
+  color: white;
+}
+
+.ui.menu .item:hover { 
+  color: #ecce6d;
+}
+
+.ui.header {
   color: white;
 }
 
