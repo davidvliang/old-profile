@@ -1,9 +1,9 @@
 ---
 layout: project
 type: project
-image: images/blueprints_boat.jpg
+image: images/drone-security/drone.jpg
 title: Drone Traffic Profiling & Protocol Reverse Engineering
-published: false
+published: true
 permalink: projects/drone-security
 # All dates must be YYYY-MM-DD format!
 date: 2019-05-10
@@ -13,6 +13,6 @@ labels:
   - Aircrack-ng Suite
   - Wireshark
 
-summary: Analyzed Wi-Fi traffic between a drone and its controller. Produced Python scripts for frame breakdown and pattern recognition.
+summary: Captured drone communication data and produced Python scripts for frame breakdown and pattern recognition.
 ---
 
