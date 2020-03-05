@@ -2,6 +2,7 @@
 layout: essay
 type: essay
 title: JavaScript and WODs
+published: false
 # All dates must be YYYY-MM-DD format!
 date: 2019-01-18
 labels:
