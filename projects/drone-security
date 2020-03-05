@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: images/drone-security/drone.jpg
+image: images/dronesecurity/drone.jpg
 title: Drone Traffic Profiling & Protocol Reverse Engineering
 published: true
 permalink: projects/drone-security
